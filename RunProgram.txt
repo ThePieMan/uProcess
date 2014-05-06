@@ -1,0 +1,1 @@
+C:\Python27\pythonw.exe C:\uProcess\uProcess.py "%D" "%I"
