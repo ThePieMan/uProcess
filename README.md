@@ -5,7 +5,7 @@ a tiny python post processor for uTorrent
 
 About:
 ---------
-I **@jkaberg**) initially made uProcess to be a "learn by doing" project, but has this far been proven a good utility to automate downloads using uTorrent. Feel free to fork me, make changes and what not :-)
+I (edit: that is to say, **@jkaberg**) initially made uProcess to be a "learn by doing" project, but has this far been proven a good utility to automate downloads using uTorrent. Feel free to fork me, make changes and what not :-)
 
 With uProcess you can achieve the same "seamless" experience as SABnzbd + CouchPotato + Sick-Beard
 
